@@ -2,7 +2,7 @@ export const tweetsData = [
     {
         handle: `@TrollBot66756542 💎`,
         profilePic: `images/troll.jpg`,
-        likes: 27,
+        likes: 30,
         retweets: 10,
         tweetText: `Buy Bitcoin, ETH Make 💰💰💰 low low prices. 
             Guaranteed return on investment. HMU DMs open!!`,
